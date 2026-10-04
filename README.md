@@ -1,72 +1,31 @@
-# Hey there! 👋 I'm Piyush
+# Piyush Jain Sanjay
 
-**AI-Native Product Builder** | **BSc AI Student** | **FinTech Enthusiast**
+**AI graduate | Business analysis, consulting & data analytics**
 
-I'm bridging the gap between complex technical architectures and real-world business value. I speak Python, P&L, and UX — and I'm passionate about building AI-first products that actually solve problems.
+I graduated from **Oxford Brookes University** with a **BSc (Honours) in Artificial Intelligence, 2:1 (Upper Second Class)**. I am based in **Oxford, United Kingdom** and interested in graduate roles where I can combine data analysis, stakeholder research and practical problem solving.
 
----
+My projects explore how AI and automation can support everyday work. Alongside technical development, I have conducted student and faculty interviews, synthesised feedback and presented curriculum recommendations.
 
-## 🎯 About Me
+## Selected projects
 
-- 🎓 **BSc AI Student** at the University of Oxford, UK
-- - 🏗️ **AI-Native Product Builder** – designing systems from first principles with AI capabilities in mind
-  - - 💼 **FinTech Focus** – leveraging AI and data for financial insights
-    - - 🚀 **Full-Stack Mindset** – from model architecture to user experience
-      - - 📊 **Data Science & ML** – transforming raw data into actionable intelligence
-       
-        - ---
+### [Brief-to-Deck](https://github.com/paramouxt/brief-to-deck-agent)
+A Python and Claude API project that turns a research brief into a PowerPoint presentation and supporting Excel workbook with sources. Outputs require source checks and human review before use.
 
-        ## 💪 Tech Stack
+### [Social Sentiments and the Stock Market](https://github.com/paramouxt/social-sentiments-stock-market)
+Unpublished BSc dissertation research exploring Twitter sentiment and stock-market movements using Python and sentiment analysis. The analysis found **no reliable predictive signal**; the project is an example of research, evaluation and recognising limitations.
 
-        **Languages & Frameworks:**
-        - Python (Primary) • PyTorch • TensorFlow • Scikit-learn
-        - - SQL • Pandas • NumPy
-         
-          - **Specializations:**
-          - - Machine Learning & AI Systems
-            - - Data Engineering & Analysis
-              - - Backend Development
-                - - Financial Data Analysis
-                 
-                  - **Tools:**
-                  - - Git • Linux • Docker • Jupyter
-                    - - Databases: PostgreSQL, MongoDB
-                     
-                      - ---
+### [CV Builder](https://github.com/paramouxt/cv-builder)
+A Python tool for generating and managing CVs programmatically. This repository is separate from my later Claude and React CV-generator project.
 
-                      ## 📌 Featured Projects
+## Tools I have used
 
-                      ### [Social Sentiments Stock Market](https://github.com/paramouxt/social-sentiments-stock-market)
-                      Dissertation project analyzing social media sentiment and its correlation with stock market movements. Built an end-to-end ML pipeline for real-time sentiment analysis and market prediction.
-                      **Tech:** Python, NLP, Time Series Analysis, Financial Data
+Python · SQL · Pandas · NumPy · Microsoft Excel · VADER · REST APIs · Claude API · React · Git
 
-                      ### [CV Builder](https://github.com/paramouxt/cv-builder)
-                      A Python-based tool for generating and managing professional CVs programmatically.
-                      **Tech:** Python, Automation
+## Professional development
 
-                      ---
+Completed the **BCG Strategy Consulting**, **Goldman Sachs Risk** and **EY Technology Risk** job simulations through **Forage**. These were simulated exercises covering analysis, recommendations and risk assessment.
 
-                      ## 🌟 What I'm Up To
+## Connect
 
-                      - 🔬 Currently working on AI-powered FinTech applications
-                      - - 📚 Deepening expertise in LLMs and generative AI
-                        - - 🤝 Open to collaborations on impactful AI/ML projects
-                          - - 💡 Always interested in discussing product strategy and technical architecture
-                           
-                            - ---
+[LinkedIn](https://www.linkedin.com/in/piyushjainsanjay)
 
-                            ## 📖 Let's Connect
-
-                            - 💼 **LinkedIn:** [in/piyushjainsanjay](https://www.linkedin.com/in/piyushjainsanjay)
-                            - - 📍 **Location:** Oxford, United Kingdom
-                             
-                              - ---
-
-                              <div align="center">
-
-                              ### Let's build something amazing together! 🚀
-
-                              Feel free to explore my repositories and reach out if you'd like to collaborate or discuss AI, FinTech, or product development.
-
-                              </div>
-                              
